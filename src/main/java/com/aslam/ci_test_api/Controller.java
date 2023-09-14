@@ -9,7 +9,7 @@ public class Controller {
     @GetMapping("/api/hello")
     String sayHellow()
     {
-        return "hellow from v1";
+        return "hellow from v2";
     }
 
 
